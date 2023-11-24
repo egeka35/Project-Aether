@@ -5,23 +5,22 @@ Project Aether is an unmanned aerial vehicle (UAV) initiative that focuses on lo
 
 
 ## Project Subcomponents
-
-1) Antenna Tracking System
-Minerva's antenna tracking system is engineered to provide precise and effective position tracking. This system optimizes the communication of the UAV and supports high-performance data transfer.
-
-2) User Interface
+1) #### User Interfacer ####  
 The project's user interface offers operators an easy-to-use interface for quick access to information. It allows monitoring the status of the UAV, mission details, and other critical data.
 
-3) Autopilot Computer
+2) #### Antenna Tracking System ####  
+Minerva's antenna tracking system is engineered to provide precise and effective position tracking. This system optimizes the communication of the UAV and supports high-performance data transfer.
+
+3) #### Autopilot Computer #### 
 Minerva's autopilot computer manages the UAV's flight automatically, handling tasks ranging from low-level control to high-level mission planning.
 
-5) Central Control Computer
+5) #### Central Control Computer #### 
 The central control computer integrates all subsystems of the project, enabling comprehensive management and coordination of the UAV.
 
-6) UHF and C Band Communication System
+6)  #### UHF and C Band Communication System #### 
 The UHF and C Band communication system in Minerva ensures a powerful and reliable communication infrastructure, facilitating secure data exchange during long-range missions.
 
-7) UAV Design
+7) #### UAV Design ####
  Aether's design includes the use of aerodynamic and lightweight materials so that it can achieve long range and high airtime.
 
 
