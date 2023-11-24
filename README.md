@@ -12,7 +12,7 @@ Minerva's antenna tracking system is engineered to provide precise and effective
 2) User Interface
 The project's user interface offers operators an easy-to-use interface for quick access to information. It allows monitoring the status of the UAV, mission details, and other critical data.
 
-3)Autopilot Computer
+3) Autopilot Computer
 Minerva's autopilot computer manages the UAV's flight automatically, handling tasks ranging from low-level control to high-level mission planning.
 
 5) Central Control Computer
