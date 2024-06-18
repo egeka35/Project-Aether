@@ -12,7 +12,7 @@ Project Bürküt is an unmanned aerial vehicle (UAV) initiative that focuses on 
    Bürküt's antenna tracking system is engineered to provide precise and effective position tracking. This system optimizes the communication of the UAV and supports high-performance data transfer.
 
 3) #### Autopilot Computer #### 
-  Bürküt's autopilot computer manages the UAV's flight automatically, handling tasks ranging from low-level control to high-level mission planning.
+   Bürküt's autopilot computer manages the UAV's flight automatically, handling tasks ranging from low-level control to high-level mission planning.
 
 5) #### Central Control Computer #### 
    The central control computer integrates all subsystems of the project, enabling comprehensive management and coordination of the UAV.
